@@ -93,9 +93,9 @@ Drones equipped with **multispectral cameras** capture images that reveal variat
 
 ### Common Indicators
 
-- 🟢 **Green color** → Healthy crops  
-- 🟡 **Yellow patches** → Nutrient deficiency  
-- 🟤 **Brown spots** → Possible disease or pest damage  
+- **Green color** → Healthy crops  
+- **Yellow patches** → Nutrient deficiency  
+- **Brown spots** → Possible disease or pest damage  
 
 > Early detection allows farmers to take corrective action before the damage spreads.
 
